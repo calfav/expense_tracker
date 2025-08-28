@@ -34,10 +34,11 @@ This project is an expense management system that consists of a Streamlit fronte
 
    ![Analytics Interface](https://github.com/calfav/expense_tracker/blob/master/Analytics_category.png)
 
+   ![Analytics Interface](https://github.com/calfav/expense_tracker/blob/master/Expense%20Interface.png)
+
    ![Analytics Interface](https://github.com/calfav/expense_tracker/blob/master/Analytics_category.png)
 
    ![Analytics Interface](https://github.com/calfav/expense_tracker/blob/master/Analytics_month.png)
 
-   ![Analytics Interface](https://github.com/calfav/expense_tracker/blob/master/Expense%20Interface.png)
 
 
