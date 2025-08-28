@@ -31,3 +31,13 @@ This project is an expense management system that consists of a Streamlit fronte
    ```commandline
     streamlit run frontend/app.py
    ```
+
+   ![Analytics Interface](https://github.com/calfav/expense_tracker/blob/master/Analytics_category.png)
+
+   ![Analytics Interface](https://github.com/calfav/expense_tracker/blob/master/Analytics_category.png)
+
+   ![Analytics Interface](https://github.com/calfav/expense_tracker/blob/master/Analytics_month.png)
+
+   ![Analytics Interface](https://github.com/calfav/expense_tracker/blob/master/Expense%20Interface.png)
+
+
